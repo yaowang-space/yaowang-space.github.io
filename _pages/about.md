@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-As a student of geology, my research centers on the processes of magmatic evolution and the genetic relationships among minerals and rocks. I am currently focused on the rock records of specific regions, namely the Himalayas and the Sanjiang area. I like employing mathematical and computational approaches to quantitatively unravel the physical and chemical mechanisms underlying geological phenomena.
+My research focuses on the evolutionary pathways of crust and mantle systems, including petrology and geochronology. My current work is concentrated on the Himalayas and the Sanjiang regions. I like employing mathematical and computational approaches to quantitatively unravel the physical and chemical mechanisms underlying geological phenomena.
 
-Building on my regional investigations, I maintain a strong interest in the evolutionary patterns of Earth at a global scale and the corresponding planetary processes, aiming to understand the dynamic behavior of the Earth system from a broader perspective.
+I maintain a strong interest in the evolutionary patterns of earth and the planetary processes, aiming to understand the dynamic behavior of the planetary system from a broader perspective.
 
 I believe that interdisciplinary exchange can inspire innovative ideas. Scholars from diverse fields are warmly welcomed to reach out for discussion and potential research collaboration.
 
