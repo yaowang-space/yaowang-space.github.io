@@ -273,10 +273,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _fieldwork
   - scope:
       path: ""
-      type: portfolio
+      type: pfieldwork
     values:
       layout: single
       author_profile: true
