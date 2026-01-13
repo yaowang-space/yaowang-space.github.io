@@ -1,64 +1,31 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+Yao Wang
+---
+Master's Student, State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Beijing
+<br/><br/>
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* <b>B.S.</b> <i>summa cum laude</i>, School of Earth Science and Resource, China University of Geosciences, Beijing, 2021–2025
+  * <b>Thesis:</b> [<i>Quantitative assessment of zircon depth profiling </i>]
+  * <b>Adviser:</b> [Ze Liu](https://zeliu-cugb.wixsite.com/geology)
+* <b>M.A.</b>, School of Earth Science and Resource, China University of Geosciences, Beijing, 2024–Present
+  * <b>Adviser:</b> [Ze Liu](https://zeliu-cugb.wixsite.com/geology)
+<br/><br/>
 
-Work experience
+Awards and Fellowships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* <b>Outstanding Student Paper Award</b>, Chinese Geophysical Union, 2024<br/>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Xiaomi Scholarship</b>, Xiaomi Corporation & CUGB, 2024<br/>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* <b>University Academic Scholarship</b>, CUGB, 2021–2025<br/>
