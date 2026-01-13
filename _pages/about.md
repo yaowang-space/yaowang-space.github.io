@@ -10,9 +10,9 @@ redirect_from:
 
 My research focuses on the evolutionary pathways of crust and mantle systems, including petrology and geochronology. My current work is concentrated on the Himalayas and the Sanjiang regions. I like employing mathematical and computational approaches to quantitatively unravel the physical and chemical mechanisms underlying geological phenomena.
 
-I maintain a strong interest in the evolutionary patterns of earth and the planetary processes, aiming to understand the dynamic behavior of the planetary system from a broader perspective.
+I maintain a strong interest in the evolutionary patterns of earth and the planets, wanting to understand the correlation of the planetary system from a broader perspective.
 
-I believe that interdisciplinary exchange can inspire innovative ideas. Scholars from diverse fields are warmly welcomed to reach out for discussion and potential research collaboration.
+I believe that interdisciplinary exchange can inspire innovative ideas. Welcome scholars from all fields to discussion and collaborate.
 
 ---
 ## Resources
