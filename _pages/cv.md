@@ -16,9 +16,9 @@ Master's Student, China University of Geosciences, Beijing
 Education
 ======
 * <b>B.S.</b>, School of Earth Science and Resource, China University of Geosciences, Beijing, 2021–2025
-  * <b>Thesis:</b> [Quantitative assessment of zircon depth profiling]
+  * <b>Thesis:</b> Quantitative assessment of zircon depth profiling
   * <b>Adviser:</b> [Ze Liu](https://zeliu-cugb.wixsite.com/geology)
-* <b>M.A.</b>, School of Earth Science and Resource, China University of Geosciences, Beijing, 2024–Present
+* <b>M.A.</b>, School of Earth Science and Resource, China University of Geosciences, Beijing, 2025–Present
   * <b>Adviser:</b> [Ze Liu](https://zeliu-cugb.wixsite.com/geology)
 <br/><br/>
 
