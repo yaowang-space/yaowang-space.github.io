@@ -5,12 +5,11 @@ excerpt: "About me"
 author_profile: true
 ---
 
-# Yao Wang (王耀)
-👨‍🎓 **Master's Student**, Creative Geoscience Group, China University of Geosciences, Beijing
-🏔️ **Research Interest**: Petrology, Geochronology, and Computational Geosciences
+# Yao Wang (王尧)
+👨‍🎓 Master's Student, China University of Geosciences, Beijing
+🏔️ Research Interest: Geology, Mathematics, and Geochronology
 
 ---
-
 ### 🔬 Research Focus
 My research revolves around **crust and mantle systems**, with key interests in:
 
@@ -19,7 +18,6 @@ My research revolves around **crust and mantle systems**, with key interests in:
 * 🔢 **Computational Geosciences** – Employing mathematical and quantitative approaches to unravel the physical and chemical mechanisms of geological phenomena.
 
 ---
-
 ### 🚀 Research Highlights
 ✨ Here are some of my key projects and contributions:
 
@@ -33,7 +31,6 @@ Integrated field observations with geochemical data to reconstruct the magmatic 
 Built computational models to simulate the chemical exchange between the crust and mantle, bridging the gap between theoretical physics and observational geology.
 
 ---
-
 ### 🌍 Vision
 My long-term ambition is to bridge the gap between **Geological Observation** and **Quantitative Modeling**. This vision aims to empower geoscientists to:
 
@@ -42,7 +39,6 @@ My long-term ambition is to bridge the gap between **Geological Observation** an
 * 📚 **Foster interdisciplinary exchange** – Using computational tools to inspire innovative ideas across all Earth science fields.
 
 ---
-
 ### 📬 Contact
 Welcome scholars from all fields for discussion and collaboration!
 📧 Email: yaowang_cugb@163.com | 📍 Office: CUGB, Beijing
