@@ -5,7 +5,6 @@ excerpt: "About me"
 author_profile: true
 ---
 👨‍🎓 Master's Student, China University of Geosciences, Beijing  
-
 🏔️ Research Interest: Geology, Mathematics, and Geochronology
 
 ---
@@ -39,5 +38,5 @@ My long-term ambition is to bridge the gap between **Geological Observation** an
 
 ---
 ### 📬 Contact
-Welcome scholars from all fields for discussion and collaboration!
+Welcome scholars from all fields for discussion and collaboration!  
 📧 Email: yaowang_cugb@163.com | 📍 Office: CUGB, Beijing
