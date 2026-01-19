@@ -3,18 +3,46 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-My research focuses on the evolutionary pathways of crust and mantle systems, including petrology and geochronology. My current work is concentrated on the Himalayas and the Sanjiang regions. I like employing mathematical and computational approaches to quantitatively unravel the physical and chemical mechanisms underlying geological phenomena.
-
-I maintain a strong interest in the evolutionary patterns of earth and the planets, wanting to understand the correlation of the planetary system from a broader perspective.
-
-I believe that interdisciplinary exchange can inspire innovative ideas. Welcome scholars from all fields to discussion and collaborate.
+# Yao Wang (王耀)
+👨‍🎓 **Master's Student**, Creative Geoscience Group, China University of Geosciences, Beijing
+🏔️ **Research Interest**: Petrology, Geochronology, and Computational Geosciences
 
 ---
-## Resources
 
-For the quantitative segementation of zircon age plateaus in depth profiling, a simple example is demonstrated in [xxxX], using the methodology presented in [Wang et al., 2026].
+### 🔬 Research Focus
+My research revolves around **crust and mantle systems**, with key interests in:
+
+* 🌋 **Petrology & Geochronology** – Investigating the evolutionary pathways of the lithosphere.
+* 🏔️ **Regional Geology** – Concentrating on the tectonic and magmatic evolution of the **Himalayas** and **Sanjiang regions**.
+* 🔢 **Computational Geosciences** – Employing mathematical and quantitative approaches to unravel the physical and chemical mechanisms of geological phenomena.
+
+---
+
+### 🚀 Research Highlights
+✨ Here are some of my key projects and contributions:
+
+**Quantitative Geochronology Tool** 🛠️  
+Developed a new methodology for the **quantitative segmentation of zircon age plateaus** in depth profiling, enabling more precise dating of complex geological events. [Wang et al., 2026]
+
+**Tectonic Evolution Analysis** 🌍  
+Integrated field observations with geochemical data to reconstruct the magmatic history of the **Sanjiang Tethyan domain**.
+
+**Interdisciplinary Modeling** 🧠  
+Built computational models to simulate the chemical exchange between the crust and mantle, bridging the gap between theoretical physics and observational geology.
+
+---
+
+### 🌍 Vision
+My long-term ambition is to bridge the gap between **Geological Observation** and **Quantitative Modeling**. This vision aims to empower geoscientists to:
+
+* ⚙️ **Quantify uncertainty** in complex geological dating and isotopic systems.
+* 🔄 **Integrate multi-scale data** from micro-scale zircon crystals to macro-scale tectonic plates.
+* 📚 **Foster interdisciplinary exchange** – Using computational tools to inspire innovative ideas across all Earth science fields.
+
+---
+
+### 📬 Contact
+Welcome scholars from all fields for discussion and collaboration!
+📧 Email: yaowang_cugb@163.com | 📍 Office: CUGB, Beijing
