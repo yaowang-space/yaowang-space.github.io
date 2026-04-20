@@ -14,7 +14,7 @@ My research revolves around **Earth system evolution**, with key interests in:
 
 * 🌋 **Petrology & Geochronology** – Investigating the evolutionary pathways of the lithosphere.
 * 🔢 **Computational geosciences** – Employing mathematical and quantitative approaches to unravel physical and chemical mechanisms of geological phenomena.
-* 🏔️ **Regional Geology** – Focusing on tectonic and magmatic evolution (e.g., the Himalayas and Sanjiang regions).
+* 🏔️ **Regional geology** – Focusing on tectonic and magmatic evolution (e.g., the Himalayas and Sanjiang regions).
 
 ---
 ### 🌍 Vision
