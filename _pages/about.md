@@ -10,7 +10,7 @@ author_profile: true
 
 ---
 ### 🔬 Research Focus
-My research revolves around **Earth system evolution**, with key interests in:
+My research revolves around **earth system evolution**, with key interests in:
 
 * 🌋 **Petrology & Geochronology** – Investigating the evolutionary pathways of the lithosphere.
 * 🔢 **Computational geosciences** – Employing mathematical and quantitative approaches to unravel physical and chemical mechanisms of geological phenomena.
@@ -20,7 +20,7 @@ My research revolves around **Earth system evolution**, with key interests in:
 ### 🌍 Vision
 My long-term ambition is to conduct **quantitative research in Earth and Planetary Science**, including:
 
-* ⚙️ **Method development** – Establishing new quantitative measurement or analytical techniques (e.g., [**Automated Depth Profiling Technique, ADEPT**](https://doi.org/10.1029/2025JB033324)).
+* ⚙️ **Method development** – Establishing new quantitative measurement or analytical techniques (e.g., [Automated Depth Profiling Technique, ADEPT](https://doi.org/10.1029/2025JB033324)).
 * 🔄 **Multi‑scale data integration** – Interpreting planetary evolution using multi‑dimensional data (e.g., from micro‑scale zircon crystals to macro‑scale tectonic plates).
 * 📈 **Prediction & Inversion** – Constraining planetary evolution through multiple approaches (e.g., mathematical computation, numerical modeling, experimental petrology simulation).
 
