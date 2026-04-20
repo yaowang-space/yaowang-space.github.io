@@ -18,7 +18,7 @@ My research revolves around **earth system evolution**, with key interests in:
 
 ---
 ### 🌍 Vision
-My long-term ambition is to conduct **quantitative research in Earth and Planetary Science**, including:
+My long-term ambition is to conduct **quantitative research in earth and planetary Science**, including:
 
 * ⚙️ **Method development** – Establishing new quantitative measurement or analytical techniques (e.g., [Automated Depth Profiling Technique, ADEPT](https://doi.org/10.1029/2025JB033324)).
 * 🔄 **Multi‑scale data integration** – Interpreting planetary evolution using multi‑dimensional data (e.g., from micro‑scale zircon crystals to macro‑scale tectonic plates).
