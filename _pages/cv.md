@@ -10,4 +10,4 @@ author_profile: true
     </a>
 </div>
 
-<embed src="/files/YaoWang_CV.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="1000px" />
+<embed src="/files/YaoWang_CV.pdf" type="application/pdf" width="100%" height="1000px" />
