@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  .pub-number {
+    display: inline-block;
+    min-width: 2em;
+    font-weight: 700;
+    color: #494e52;
+    margin-right: 0.3em;
+  }
+</style>
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -23,12 +33,12 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single.html number=forloop.rindex %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single.html number=forloop.rindex %}
   {% endfor %}
 {% endif %}
 
