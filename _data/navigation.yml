@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About"
+    url: /
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Fieldwork"
+    url: /fieldwork/
+
+  - title: "News"
+    url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Code"
+    url: https://github.com/yaowang-space
+
+  #- title: "Teaching"
+  #  url: /teaching/
