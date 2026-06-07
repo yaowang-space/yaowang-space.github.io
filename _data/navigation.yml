@@ -1,19 +1,19 @@
-# main links links
+# main links
 main:
+  - title: "Home"
+    url: /
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "People"
+    url: /people/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Code"
-    url: https://github.com/yaowang-space
 
   - title: "Fieldwork"
     url: /fieldwork/
 
   - title: "News"
     url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
-
-  #- title: "Teaching"
-  #  url: /teaching/
