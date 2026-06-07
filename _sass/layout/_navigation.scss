@@ -175,7 +175,24 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
+  display: flex;
+  align-items: center;
   background: var(--global-bg-color);
+
+  .masthead-brand {
+    display: block;
+    margin: 0;
+    padding: 0.35rem 0 0.35rem 0;
+    font-weight: 700;
+    color: var(--global-masthead-link-color);
+    text-decoration: none;
+    flex-shrink: 0;
+    white-space: nowrap;
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
 
   a {
     display: block;
@@ -205,29 +222,23 @@
 
   .visible-links {
     display: table;
-    width: 100%;
+    margin-left: auto;
 
     li {
       display: table-cell;
       vertical-align: middle;
+      white-space: nowrap;
 
-      &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
-
-        a {
-          margin-left: 0;
-        }
+      a {
+        margin: 0 0.5rem;
       }
 
-      &.nav-spacer {
-        width: 100%;
+      &:first-child a {
+        margin-left: 0;
       }
 
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
+      &:last-child a {
+        margin-right: 0;
       }
     }
 
