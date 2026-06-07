@@ -175,28 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  display: flex;
-  align-items: center;
-  flex-wrap: nowrap;
   background: var(--global-bg-color);
-
-  .masthead-brand {
-    padding: 0.35rem 0;
-    font-weight: 700;
-    color: var(--global-masthead-link-color);
-    text-decoration: none;
-    white-space: nowrap;
-    flex-shrink: 0;
-    font-size: $type-size-6;
-
-    @include breakpoint($medium) {
-      font-size: inherit;
-    }
-
-    &:hover {
-      color: var(--global-masthead-link-color-hover);
-    }
-  }
 
   a {
     display: block;
@@ -225,24 +204,22 @@
   }
 
   .visible-links {
-    display: none;
-
-    @include breakpoint($medium) {
-      display: table;
-      margin-left: auto;
-    }
+    display: table;
+    width: 100%;
 
     li {
       display: table-cell;
       vertical-align: middle;
 
-      a {
-        margin: 0 0.35rem;
-        white-space: nowrap;
-
-        @include breakpoint($medium) {
-          margin: 0 0.5rem;
+      &.masthead__menu-item--lg {
+        a {
+          margin-left: 0;
         }
+      }
+
+      a {
+        margin: 0 0.5rem;
+        white-space: nowrap;
       }
 
       &:last-child a {
@@ -250,37 +227,13 @@
       }
     }
 
-    #theme-toggle {
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
-      }
-    }
+    // Spacer pushes nav right on desktop
+    .nav-spacer {
+      display: none;
 
-    a {
-      position: relative;
-
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: var(--global-border-color);
+      @include breakpoint($medium) {
+        display: table-cell;
         width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0);
-      }
-
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1);
       }
     }
   }
