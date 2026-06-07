@@ -175,10 +175,6 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: nowrap;
   background: var(--global-bg-color);
 
   .masthead-brand {
@@ -187,9 +183,9 @@
     font-weight: 700;
     color: var(--global-masthead-link-color);
     text-decoration: none;
-    flex-shrink: 0;
     white-space: nowrap;
-    margin-right: 1rem;
+    // Mobile: stacked layout, brand on top
+    margin-bottom: 0.25rem;
 
     &:hover {
       color: var(--global-masthead-link-color-hover);
@@ -221,10 +217,30 @@
     cursor: pointer;
     z-index: 100;
   }
+}
+
+// Desktop: flex layout for left-right alignment
+@include breakpoint($medium) {
+  .greedy-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+
+    .masthead-brand {
+      margin-bottom: 0;
+      margin-right: 1rem;
+      flex-shrink: 0;
+    }
+
+    .visible-links {
+      flex-shrink: 0;
+    }
+  }
+}
 
   .visible-links {
     display: table;
-    flex-shrink: 0;
 
     li {
       display: table-cell;
