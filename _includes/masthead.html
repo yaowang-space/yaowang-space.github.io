@@ -8,6 +8,7 @@
           <li class="masthead__menu-item masthead__menu-item--lg persist">
             <a href="{{ base_path }}/">Yao Wang <span style="font-weight:400;">| Geologist & Planetary Scientist</span></a>
           </li>
+          <li class="nav-spacer"></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

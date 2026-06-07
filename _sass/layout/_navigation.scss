@@ -204,21 +204,24 @@
   }
 
   .visible-links {
-    display: flex;
-    align-items: center;
+    display: table;
     width: 100%;
 
     li {
-      display: block;
+      display: table-cell;
+      vertical-align: middle;
 
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
-        margin-right: auto;
 
         a {
           margin-left: 0;
         }
+      }
+
+      &.nav-spacer {
+        width: 100%;
       }
 
       &:last-child {
