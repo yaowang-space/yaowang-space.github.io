@@ -227,15 +227,6 @@
       }
     }
 
-    // Spacer pushes nav right on desktop
-    .nav-spacer {
-      display: none;
-
-      @include breakpoint($medium) {
-        display: table-cell;
-        width: 100%;
-      }
-    }
   }
 }
 
