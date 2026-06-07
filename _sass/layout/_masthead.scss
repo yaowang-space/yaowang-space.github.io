@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: #222;
   height: fit-content;
   top: 0;
   width: 100%;
@@ -40,6 +40,19 @@
 
     a {
       text-decoration: none;
+      color: #fff !important;
+
+      &:hover {
+        color: #ccc !important;
+      }
+    }
+
+    .greedy-nav a {
+      color: #fff !important;
+
+      &:hover {
+        color: #ccc !important;
+      }
     }
   }
 }
