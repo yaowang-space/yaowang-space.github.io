@@ -177,21 +177,6 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
-  .masthead-brand {
-    display: block;
-    padding: 0.35rem 0;
-    font-weight: 700;
-    color: var(--global-masthead-link-color);
-    text-decoration: none;
-    white-space: nowrap;
-    // Mobile: stacked layout, brand on top
-    margin-bottom: 0.25rem;
-
-    &:hover {
-      color: var(--global-masthead-link-color-hover);
-    }
-  }
-
   a {
     display: block;
     margin: 0 0.75rem;
@@ -217,30 +202,20 @@
     cursor: pointer;
     z-index: 100;
   }
-}
 
-// Desktop: flex layout for left-right alignment
-@include breakpoint($medium) {
-  .greedy-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: nowrap;
+  // Spacer pushes nav items to the right on desktop
+  .nav-spacer {
+    display: none;
 
-    .masthead-brand {
-      margin-bottom: 0;
-      margin-right: 1rem;
-      flex-shrink: 0;
-    }
-
-    .visible-links {
-      flex-shrink: 0;
+    @include breakpoint($medium) {
+      display: table-cell;
+      width: 100%;
     }
   }
-}
 
   .visible-links {
     display: table;
+    width: 100%;
 
     li {
       display: table-cell;
@@ -249,6 +224,10 @@
       a {
         margin: 0 0.5rem;
         white-space: nowrap;
+      }
+
+      &:first-child a {
+        margin-left: 0;
       }
 
       &:last-child a {
