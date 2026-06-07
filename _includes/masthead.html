@@ -3,12 +3,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        <a class="masthead-brand" href="{{ base_path }}/">Yao Wang <span style="font-weight:400;">| Geologist &amp; Planetary Scientist</span></a>
         <button><span class="navicon"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist">
-            <a href="{{ base_path }}/">Yao Wang <span style="font-weight:400;">| Geologist &amp; Planetary Scientist</span></a>
-          </li>
-          <li class="nav-spacer"></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
