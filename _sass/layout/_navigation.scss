@@ -245,10 +245,10 @@
     li {
       display: table-cell;
       vertical-align: middle;
-      white-space: nowrap;
 
       a {
         margin: 0 0.5rem;
+        white-space: nowrap;
       }
 
       &:last-child a {
