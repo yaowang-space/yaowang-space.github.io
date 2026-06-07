@@ -32,10 +32,10 @@ let setTheme = (theme) => {
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
-    $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
+    $(".theme-icon").removeClass("fa-sun").addClass("fa-moon");
   } else if (use_theme === "light") {
     $("html").removeAttr("data-theme");
-    $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+    $(".theme-icon").removeClass("fa-moon").addClass("fa-sun");
   }
 };
 
@@ -100,7 +100,7 @@ $(document).ready(function () {
         });
 
   // Enable the theme toggle
-  $('#theme-toggle').on('click', toggleTheme);
+  $('#theme-toggle, #theme-toggle-desktop').on('click', toggleTheme);
 
   // Enable the sticky footer
   var bumpIt = function () {
