@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
 {% for post in site.fieldwork %}
-  {% include archive-single.html %}
+  {{ post.content }}
+  {% unless forloop.last %}<hr style="margin: 2em 0; border: none; border-top: 1px solid #e8e8e8;" />{% endunless %}
 {% endfor %}
