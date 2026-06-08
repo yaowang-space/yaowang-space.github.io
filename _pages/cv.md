@@ -4,12 +4,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<div style="margin-bottom: 15px;">
-  <a href="/files/YaoWang_CV.pdf" download>
-    📄 Download CV (PDF)
-  </a>
-</div>
-
 <style>
   .cv-iframe { width: 100%; height: 900px; border: 1px solid #ddd; border-radius: 4px; }
   .cv-open-mobile { display: none; margin-left: 1em; }
