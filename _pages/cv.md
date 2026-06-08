@@ -10,6 +10,16 @@ author_profile: true
   </a>
 </div>
 
-<iframe src="/files/YaoWang_CV.pdf" width="100%" height="900px" style="border: 1px solid #ddd; border-radius: 4px;" title="Curriculum Vitae">
-  <p>Your browser cannot display the PDF. <a href="/files/YaoWang_CV.pdf">Click here to download.</a></p>
-</iframe>
+<style>
+  .cv-container { position: relative; width: 100%; }
+  .cv-iframe { width: 100%; height: 900px; border: 1px solid #ddd; border-radius: 4px; }
+  @media (max-width: 768px) {
+    .cv-iframe { height: 500px; }
+  }
+</style>
+
+<div class="cv-container">
+  <iframe src="/files/YaoWang_CV.pdf" class="cv-iframe" title="Curriculum Vitae">
+    <p>Your browser cannot display the PDF. <a href="/files/YaoWang_CV.pdf">Click here to download.</a></p>
+  </iframe>
+</div>
