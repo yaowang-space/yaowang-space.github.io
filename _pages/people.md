@@ -1,45 +1,29 @@
 ---
 permalink: /people/
 title: "People"
-excerpt: "Research group and collaborators"
+excerpt: "Research groups and affiliations"
 author_profile: true
 ---
 
-## 🏔️ Research Group
+<style>
+  .group-links {
+    list-style: none;
+    padding: 0;
+    margin: 1.5em 0;
+  }
+  .group-links li {
+    margin-bottom: 1em;
+    line-height: 1.6;
+  }
+  .group-links a {
+    font-weight: 600;
+  }
+</style>
 
-I am a member of the **Magmatism and Tibetan Plateau Formation** research group led by Prof. Di-Cheng Zhu at China University of Geosciences (Beijing).
+Research assistant (2022–present) in the following groups:
 
-<div style="text-align: center; margin: 1.5em 0;">
-  <a href="http://www.tibetzhu.com/" target="_blank" style="display: inline-block; padding: 10px 24px; background: #2f7f93; color: #fff; text-decoration: none; border-radius: 4px; font-weight: 700;">
-    🌐 Visit Group Website
-  </a>
-</div>
-
----
-
-## 🔬 Deep Thinking Lab
-
-Our **Deep Thinking Lab**, led by Associate Prof. Ze Liu, focuses on developing computational and quantitative approaches to solve geological problems — including high-throughput data processing, machine learning applications in geochemistry, and automated geochronology workflows.
-
-<div style="text-align: center; margin: 1.5em 0;">
-  <a href="https://zeliu-cugb.wixsite.com/geology" target="_blank" style="display: inline-block; padding: 10px 24px; background: #333; color: #fff; text-decoration: none; border-radius: 4px; font-weight: 700;">
-    🧠 Visit Deep Thinking Lab
-  </a>
-</div>
-
----
-
-## 👨‍🏫 Advisors
-
-| Role | Name | Affiliation |
-|---|---|---|
-| Ph.D. Supervisor | **Prof. Di-Cheng Zhu** | China University of Geosciences (Beijing) |
-| M.S. Supervisor | **Associate Prof. Ze Liu** | China University of Geosciences (Beijing) |
-
-## 🤝 Collaborators
-
-- **Prof. Peter A. Cawood** — Monash University
-- **Prof. Daniel F. Stockli** — University of Texas at Austin
-- **Dr. Jesse Walters** — University of Texas at Austin
-- **Dr. Liang-Liang Zhang** — China University of Geosciences (Beijing)
-- **Dr. Li Liu** — China University of Geosciences (Beijing)
+<ul class="group-links">
+  <li>🏔️ <a href="http://www.tibetzhu.com/" target="_blank">Magmatism and Tibetan Plateau Formation</a> — Prof. Di-Cheng Zhu's group, CUGB</li>
+  <li>🧠 <a href="https://zeliu-cugb.wixsite.com/geology" target="_blank">Deep Thinking Lab</a> — Associate Prof. Ze Liu's group, CUGB</li>
+  <li>🔬 <a href="https://bm.cugb.edu.cn/gpmr/c/2025-10-31/838037.shtml" target="_blank">MILMA — Mineral Microanalysis Laboratory</a>, CUGB</li>
+</ul>
