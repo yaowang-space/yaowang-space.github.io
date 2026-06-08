@@ -11,15 +11,20 @@ author_profile: true
 </div>
 
 <style>
-  .cv-container { position: relative; width: 100%; }
   .cv-iframe { width: 100%; height: 900px; border: 1px solid #ddd; border-radius: 4px; }
+  .cv-dl-mobile { display: none; text-align: center; margin: 1em 0; }
   @media (max-width: 768px) {
-    .cv-iframe { height: 500px; }
+    .cv-iframe { display: none; }
+    .cv-dl-mobile { display: block; }
   }
 </style>
 
-<div class="cv-container">
-  <iframe src="/files/YaoWang_CV.pdf" class="cv-iframe" title="Curriculum Vitae">
-    <p>Your browser cannot display the PDF. <a href="/files/YaoWang_CV.pdf">Click here to download.</a></p>
-  </iframe>
+<iframe src="/files/YaoWang_CV.pdf" class="cv-iframe" title="Curriculum Vitae">
+  <p>Your browser cannot display the PDF. <a href="/files/YaoWang_CV.pdf">Click here to download.</a></p>
+</iframe>
+
+<div class="cv-dl-mobile">
+  <a href="/files/YaoWang_CV.pdf" target="_blank" style="font-size: 1.1em;">
+    📄 Open CV (PDF)
+  </a>
 </div>
