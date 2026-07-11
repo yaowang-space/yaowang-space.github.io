@@ -21,7 +21,7 @@ My research revolves around **earth system evolution**, with key interests in:
 My long-term ambition is to conduct **quantitative research in earth and planetary science**, including:
 
 * ⏳ **Temporal evolution** – Tracing the evolutionary pathways of Earth's lithosphere and mantle over geological timescales.
-* 🔄 **Forward & inverse modeling** – Deciphering the forward and inverse trajectories of magmatic and metamorphic processes.
+* 🔄 **Forward & inverse modeling** – Constraining the forward and inverse pathways of magmatic evolution from source to surface.
 * 🪐 **Planetary comparison** – Exploring the origin and evolution of Earth and other rocky planets through comparative planetology.
 
 ---
