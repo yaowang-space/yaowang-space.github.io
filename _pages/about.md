@@ -20,9 +20,9 @@ My research revolves around **earth system evolution**, with key interests in:
 ### 🌍 Vision
 My long-term ambition is to conduct **quantitative research in earth and planetary science**, including:
 
-* ⚙️ **Method development** – Establishing new quantitative measurement or analytical techniques (e.g., [Automated Depth Profiling Technique, ADEPT](https://doi.org/10.1029/2025JB033324)).
-* 🔄 **Multi‑scale data integration** – Interpreting planetary evolution using multi‑dimensional data (e.g., from micro‑scale zircon crystals to macro‑scale tectonic plates).
-* 📈 **Prediction & Inversion** – Constraining planetary evolution through multiple approaches (e.g., mathematical computation, numerical modeling, experimental petrology simulation).
+* ⏳ **Temporal evolution** – Tracing the evolutionary pathways of Earth's lithosphere and mantle over geological timescales.
+* 🔄 **Forward & inverse modeling** – Deciphering the forward and inverse trajectories of magmatic and metamorphic processes.
+* 🪐 **Planetary comparison** – Exploring the origin and evolution of Earth and other rocky planets through comparative planetology.
 
 ---
 ### 📬 Contact
